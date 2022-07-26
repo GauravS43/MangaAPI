@@ -1,1 +1,1 @@
-web: gunicorn app:mangaAPI.py
+web: gunicorn app:app.py
